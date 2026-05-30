@@ -1,0 +1,95 @@
+{
+  "as_of": "2026-05-29",
+  "holdings": [
+    {
+      "ticker": "LAURUSLABS",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 991.71,
+      "current_price": 1362.0,
+      "gain_since_entry_pct": 37.34,
+      "today_change_pct": -1.43
+    },
+    {
+      "ticker": "ADANIPOWER",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 243.37,
+      "current_price": 243.37,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -2.23
+    },
+    {
+      "ticker": "MUTHOOTFIN",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 3424.2,
+      "current_price": 3342.9,
+      "gain_since_entry_pct": -2.37,
+      "today_change_pct": 1.09
+    },
+    {
+      "ticker": "POWERINDIA",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 24235.0,
+      "current_price": 38445.0,
+      "gain_since_entry_pct": 58.63,
+      "today_change_pct": 2.38
+    },
+    {
+      "ticker": "GVT&D",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 3640.4,
+      "current_price": 5148.6,
+      "gain_since_entry_pct": 41.43,
+      "today_change_pct": 1.0
+    },
+    {
+      "ticker": "MCX",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 2389.4,
+      "current_price": 2954.5,
+      "gain_since_entry_pct": 23.65,
+      "today_change_pct": -6.46
+    },
+    {
+      "ticker": "NATIONALUM",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 384.19,
+      "current_price": 424.45,
+      "gain_since_entry_pct": 10.48,
+      "today_change_pct": -1.99
+    },
+    {
+      "ticker": "CUMMINSIND",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 4500.1,
+      "current_price": 5881.0,
+      "gain_since_entry_pct": 30.69,
+      "today_change_pct": -2.43
+    },
+    {
+      "ticker": "BHARATFORG",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 1881.6,
+      "current_price": 1957.2,
+      "gain_since_entry_pct": 4.02,
+      "today_change_pct": 0.96
+    },
+    {
+      "ticker": "GLENMARK",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 2406.3,
+      "current_price": 2274.9,
+      "gain_since_entry_pct": -5.46,
+      "today_change_pct": -4.61
+    }
+  ]
+}

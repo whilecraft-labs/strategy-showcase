@@ -1,0 +1,59 @@
+{
+  "id": "us_ndx_mustang",
+  "name": "\ud83c\uddfa\ud83c\uddf8 US NDX Mustang",
+  "public_id": "us_ndx_mustang",
+  "region": "US",
+  "currency": "USD",
+  "benchmark_label": "QQQ",
+  "benchmark_ticker": "QQQ",
+  "rebalance_frequency": "monthly",
+  "description": "Long-only trend equity strategy on the Nasdaq 100 universe. Monthly rebalance, equal-weight 10-name portfolio.\n",
+  "inception": "2019-07-31",
+  "last_data_date": "2026-05-29",
+  "last_updated": "2026-05-30 14:35:07 UTC",
+  "summary": {
+    "total_return_pct": 408.59,
+    "benchmark_total_return_pct": 302.57,
+    "cagr_pct": 26.96,
+    "benchmark_cagr_pct": 22.68,
+    "vs_benchmark_cagr_pct": 4.28,
+    "sharpe": 0.89,
+    "max_dd_pct": -36.4,
+    "today_return_pct": 0.58,
+    "today_benchmark_pct": 0.37,
+    "ytd_return_pct": 49.16,
+    "ytd_benchmark_pct": 20.34,
+    "returns_by_period": [
+      {
+        "period": "1W",
+        "strategy_pct": 7.24,
+        "benchmark_pct": 3.33,
+        "excess_pp": 3.91
+      },
+      {
+        "period": "1M",
+        "strategy_pct": 19.26,
+        "benchmark_pct": 11.6,
+        "excess_pp": 7.66
+      },
+      {
+        "period": "3M",
+        "strategy_pct": 38.78,
+        "benchmark_pct": 21.73,
+        "excess_pp": 17.05
+      },
+      {
+        "period": "6M",
+        "strategy_pct": 62.32,
+        "benchmark_pct": 21.56,
+        "excess_pp": 40.76
+      },
+      {
+        "period": "1Y",
+        "strategy_pct": 82.31,
+        "benchmark_pct": 42.97,
+        "excess_pp": 39.34
+      }
+    ]
+  }
+}

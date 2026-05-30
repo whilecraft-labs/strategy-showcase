@@ -1,0 +1,95 @@
+{
+  "as_of": "2026-05-29",
+  "holdings": [
+    {
+      "ticker": "AMD",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 354.49,
+      "current_price": 516.1,
+      "gain_since_entry_pct": 45.59,
+      "today_change_pct": -0.38
+    },
+    {
+      "ticker": "KLAC",
+      "weight": 0.1,
+      "entry_date": "2025-10-31",
+      "entry_price": 1203.61,
+      "current_price": 1921.71,
+      "gain_since_entry_pct": 59.66,
+      "today_change_pct": -0.31
+    },
+    {
+      "ticker": "AMAT",
+      "weight": 0.1,
+      "entry_date": "2026-02-27",
+      "entry_price": 371.84,
+      "current_price": 450.06,
+      "gain_since_entry_pct": 21.04,
+      "today_change_pct": 0.08
+    },
+    {
+      "ticker": "MU",
+      "weight": 0.1,
+      "entry_date": "2025-10-31",
+      "entry_price": 223.59,
+      "current_price": 971.0,
+      "gain_since_entry_pct": 334.29,
+      "today_change_pct": 5.14
+    },
+    {
+      "ticker": "MRVL",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 205.0,
+      "current_price": 205.0,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": 0.08
+    },
+    {
+      "ticker": "INTC",
+      "weight": 0.1,
+      "entry_date": "2025-11-28",
+      "entry_price": 40.56,
+      "current_price": 114.68,
+      "gain_since_entry_pct": 182.74,
+      "today_change_pct": -5.14
+    },
+    {
+      "ticker": "WBD",
+      "weight": 0.1,
+      "entry_date": "2025-10-31",
+      "entry_price": 22.45,
+      "current_price": 27.01,
+      "gain_since_entry_pct": 20.31,
+      "today_change_pct": -0.11
+    },
+    {
+      "ticker": "LRCX",
+      "weight": 0.1,
+      "entry_date": "2025-10-31",
+      "entry_price": 157.01,
+      "current_price": 318.18,
+      "gain_since_entry_pct": 102.65,
+      "today_change_pct": 0.06
+    },
+    {
+      "ticker": "WDC",
+      "weight": 0.1,
+      "entry_date": "2026-02-27",
+      "entry_price": 279.57,
+      "current_price": 531.21,
+      "gain_since_entry_pct": 90.01,
+      "today_change_pct": 0.01
+    },
+    {
+      "ticker": "STX",
+      "weight": 0.1,
+      "entry_date": "2026-02-27",
+      "entry_price": 407.13,
+      "current_price": 879.8,
+      "gain_since_entry_pct": 116.1,
+      "today_change_pct": -0.1
+    }
+  ]
+}

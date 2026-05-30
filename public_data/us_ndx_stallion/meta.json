@@ -1,0 +1,59 @@
+{
+  "id": "us_ndx_stallion",
+  "name": "\ud83c\uddfa\ud83c\uddf8 US NDX Stallion",
+  "public_id": "us_ndx_stallion",
+  "region": "US",
+  "currency": "USD",
+  "benchmark_label": "QQQ",
+  "benchmark_ticker": "QQQ",
+  "rebalance_frequency": "monthly",
+  "description": "Long-only trend equity strategy on the Nasdaq 100 universe with long-horizon ranking. Monthly rebalance, equal-weight 10-name portfolio.\n",
+  "inception": "2020-01-31",
+  "last_data_date": "2026-05-29",
+  "last_updated": "2026-05-30 14:35:09 UTC",
+  "summary": {
+    "total_return_pct": 376.92,
+    "benchmark_total_return_pct": 249.71,
+    "cagr_pct": 28.09,
+    "benchmark_cagr_pct": 21.95,
+    "vs_benchmark_cagr_pct": 6.15,
+    "sharpe": 0.88,
+    "max_dd_pct": -40.48,
+    "today_return_pct": -0.22,
+    "today_benchmark_pct": 0.37,
+    "ytd_return_pct": 70.14,
+    "ytd_benchmark_pct": 20.34,
+    "returns_by_period": [
+      {
+        "period": "1W",
+        "strategy_pct": 6.75,
+        "benchmark_pct": 3.33,
+        "excess_pp": 3.42
+      },
+      {
+        "period": "1M",
+        "strategy_pct": 25.01,
+        "benchmark_pct": 11.6,
+        "excess_pp": 13.41
+      },
+      {
+        "period": "3M",
+        "strategy_pct": 60.84,
+        "benchmark_pct": 21.73,
+        "excess_pp": 39.11
+      },
+      {
+        "period": "6M",
+        "strategy_pct": 83.81,
+        "benchmark_pct": 21.56,
+        "excess_pp": 62.25
+      },
+      {
+        "period": "1Y",
+        "strategy_pct": 93.74,
+        "benchmark_pct": 42.97,
+        "excess_pp": 50.77
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "as_of": "2026-05-29",
+  "holdings": [
+    {
+      "ticker": "JINDALSTEL",
+      "weight": 0.1,
+      "entry_date": "2026-02-27",
+      "entry_price": 1244.2,
+      "current_price": 1207.2,
+      "gain_since_entry_pct": -2.97,
+      "today_change_pct": -1.1
+    },
+    {
+      "ticker": "CUMMINSIND",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 4500.1,
+      "current_price": 5881.0,
+      "gain_since_entry_pct": 30.69,
+      "today_change_pct": -2.43
+    },
+    {
+      "ticker": "ABB",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 5917.3,
+      "current_price": 7253.0,
+      "gain_since_entry_pct": 22.57,
+      "today_change_pct": 0.47
+    },
+    {
+      "ticker": "ADANIGREEN",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 1475.4,
+      "current_price": 1475.4,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -0.97
+    },
+    {
+      "ticker": "ADANIPOWER",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 243.37,
+      "current_price": 243.37,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -2.23
+    },
+    {
+      "ticker": "HINDZINC",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 595.95,
+      "current_price": 632.95,
+      "gain_since_entry_pct": 6.21,
+      "today_change_pct": -2.45
+    },
+    {
+      "ticker": "PFC",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 379.5,
+      "current_price": 428.6,
+      "gain_since_entry_pct": 12.94,
+      "today_change_pct": -1.13
+    },
+    {
+      "ticker": "SIEMENS",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 3844.0,
+      "current_price": 3844.0,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -0.89
+    },
+    {
+      "ticker": "ADANIENSOL",
+      "weight": 0.1,
+      "entry_date": "2025-12-31",
+      "entry_price": 1027.35,
+      "current_price": 1513.3,
+      "gain_since_entry_pct": 47.3,
+      "today_change_pct": -1.74
+    },
+    {
+      "ticker": "TMCV",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 379.5,
+      "current_price": 379.5,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -1.13
+    }
+  ]
+}

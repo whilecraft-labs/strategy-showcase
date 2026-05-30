@@ -1,0 +1,95 @@
+{
+  "as_of": "2026-05-29",
+  "holdings": [
+    {
+      "ticker": "DMART",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 3956.8,
+      "current_price": 4054.5,
+      "gain_since_entry_pct": 2.47,
+      "today_change_pct": -1.69
+    },
+    {
+      "ticker": "HAL",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 4303.8,
+      "current_price": 4303.8,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -2.47
+    },
+    {
+      "ticker": "RECLTD",
+      "weight": 0.1,
+      "entry_date": "2025-07-31",
+      "entry_price": 374.94,
+      "current_price": 337.65,
+      "gain_since_entry_pct": -9.95,
+      "today_change_pct": -0.6
+    },
+    {
+      "ticker": "IRFC",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 97.51,
+      "current_price": 97.51,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -1.69
+    },
+    {
+      "ticker": "DLF",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 590.6,
+      "current_price": 590.6,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -0.56
+    },
+    {
+      "ticker": "LODHA",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 897.9,
+      "current_price": 938.1,
+      "gain_since_entry_pct": 4.48,
+      "today_change_pct": 1.56
+    },
+    {
+      "ticker": "UNITDSPR",
+      "weight": 0.1,
+      "entry_date": "2025-12-31",
+      "entry_price": 1437.2,
+      "current_price": 1270.0,
+      "gain_since_entry_pct": -11.63,
+      "today_change_pct": -2.5
+    },
+    {
+      "ticker": "INDHOTEL",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 635.85,
+      "current_price": 654.25,
+      "gain_since_entry_pct": 2.89,
+      "today_change_pct": -2.01
+    },
+    {
+      "ticker": "MAZDOCK",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 2065.2,
+      "current_price": 2456.5,
+      "gain_since_entry_pct": 18.95,
+      "today_change_pct": 0.06
+    },
+    {
+      "ticker": "SOLARINDS",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 18247.0,
+      "current_price": 18247.0,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -2.18
+    }
+  ]
+}

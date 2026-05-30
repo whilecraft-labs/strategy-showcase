@@ -1,0 +1,59 @@
+{
+  "id": "india_n200_rhino",
+  "name": "\ud83c\uddee\ud83c\uddf3 India N200 Rhino",
+  "public_id": "india_n200_rhino",
+  "region": "India",
+  "currency": "INR",
+  "benchmark_label": "Nifty 50",
+  "benchmark_ticker": "^NSEI",
+  "rebalance_frequency": "monthly",
+  "description": "Long-only trend equity strategy with dynamic risk targeting. Monthly rebalance, equal-weight 10-name portfolio.\n",
+  "inception": "2021-03-31",
+  "last_data_date": "2026-05-29",
+  "last_updated": "2026-05-30 14:34:27 UTC",
+  "summary": {
+    "total_return_pct": 258.58,
+    "benchmark_total_return_pct": 60.29,
+    "cagr_pct": 28.66,
+    "benchmark_cagr_pct": 9.76,
+    "vs_benchmark_cagr_pct": 18.9,
+    "sharpe": 1.38,
+    "max_dd_pct": -25.53,
+    "today_return_pct": -0.53,
+    "today_benchmark_pct": -1.5,
+    "ytd_return_pct": -5.24,
+    "ytd_benchmark_pct": -9.88,
+    "returns_by_period": [
+      {
+        "period": "1W",
+        "strategy_pct": 0.97,
+        "benchmark_pct": -0.72,
+        "excess_pp": 1.69
+      },
+      {
+        "period": "1M",
+        "strategy_pct": 3.27,
+        "benchmark_pct": -1.87,
+        "excess_pp": 5.14
+      },
+      {
+        "period": "3M",
+        "strategy_pct": -4.51,
+        "benchmark_pct": -7.38,
+        "excess_pp": 2.87
+      },
+      {
+        "period": "6M",
+        "strategy_pct": -4.27,
+        "benchmark_pct": -9.03,
+        "excess_pp": 4.76
+      },
+      {
+        "period": "1Y",
+        "strategy_pct": -6.7,
+        "benchmark_pct": -5.81,
+        "excess_pp": -0.89
+      }
+    ]
+  }
+}

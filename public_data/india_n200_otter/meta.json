@@ -1,0 +1,59 @@
+{
+  "id": "india_n200_otter",
+  "name": "\ud83c\uddee\ud83c\uddf3 India N200 Otter",
+  "public_id": "india_n200_otter",
+  "region": "India",
+  "currency": "INR",
+  "benchmark_label": "Nifty 50",
+  "benchmark_ticker": "^NSEI",
+  "rebalance_frequency": "monthly",
+  "description": "Long-only trend equity strategy with low-turnover rebalancing. Monthly rebalance, equal-weight 10-name portfolio.\n",
+  "inception": "2021-03-31",
+  "last_data_date": "2026-05-29",
+  "last_updated": "2026-05-30 14:34:02 UTC",
+  "summary": {
+    "total_return_pct": 284.77,
+    "benchmark_total_return_pct": 60.29,
+    "cagr_pct": 30.46,
+    "benchmark_cagr_pct": 9.76,
+    "vs_benchmark_cagr_pct": 20.7,
+    "sharpe": 1.15,
+    "max_dd_pct": -32.34,
+    "today_return_pct": -1.31,
+    "today_benchmark_pct": -1.5,
+    "ytd_return_pct": 0.98,
+    "ytd_benchmark_pct": -9.88,
+    "returns_by_period": [
+      {
+        "period": "1W",
+        "strategy_pct": 2.09,
+        "benchmark_pct": -0.72,
+        "excess_pp": 2.81
+      },
+      {
+        "period": "1M",
+        "strategy_pct": 6.76,
+        "benchmark_pct": -1.87,
+        "excess_pp": 8.63
+      },
+      {
+        "period": "3M",
+        "strategy_pct": 1.76,
+        "benchmark_pct": -7.38,
+        "excess_pp": 9.14
+      },
+      {
+        "period": "6M",
+        "strategy_pct": 2.02,
+        "benchmark_pct": -9.03,
+        "excess_pp": 11.05
+      },
+      {
+        "period": "1Y",
+        "strategy_pct": -5.46,
+        "benchmark_pct": -5.81,
+        "excess_pp": 0.36
+      }
+    ]
+  }
+}

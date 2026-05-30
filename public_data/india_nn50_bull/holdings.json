@@ -1,0 +1,95 @@
+{
+  "as_of": "2026-05-29",
+  "holdings": [
+    {
+      "ticker": "CGPOWER",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 917.45,
+      "current_price": 917.45,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -1.86
+    },
+    {
+      "ticker": "JINDALSTEL",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 1223.1,
+      "current_price": 1207.2,
+      "gain_since_entry_pct": -1.3,
+      "today_change_pct": -1.1
+    },
+    {
+      "ticker": "ABB",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 7230.0,
+      "current_price": 7253.0,
+      "gain_since_entry_pct": 0.32,
+      "today_change_pct": 0.47
+    },
+    {
+      "ticker": "TATAPOWER",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 420.75,
+      "current_price": 420.75,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -1.19
+    },
+    {
+      "ticker": "ADANIGREEN",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 1475.4,
+      "current_price": 1475.4,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -0.97
+    },
+    {
+      "ticker": "ADANIPOWER",
+      "weight": 0.1,
+      "entry_date": "2025-10-31",
+      "entry_price": 157.85,
+      "current_price": 243.37,
+      "gain_since_entry_pct": 54.18,
+      "today_change_pct": -2.23
+    },
+    {
+      "ticker": "UNIONBANK",
+      "weight": 0.1,
+      "entry_date": "2026-02-27",
+      "entry_price": 202.27,
+      "current_price": 167.88,
+      "gain_since_entry_pct": -17.0,
+      "today_change_pct": -0.5
+    },
+    {
+      "ticker": "HINDZINC",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 595.95,
+      "current_price": 632.95,
+      "gain_since_entry_pct": 6.21,
+      "today_change_pct": -2.45
+    },
+    {
+      "ticker": "PFC",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 428.6,
+      "current_price": 428.6,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -1.13
+    },
+    {
+      "ticker": "MOTHERSON",
+      "weight": 0.1,
+      "entry_date": "2026-02-27",
+      "entry_price": 132.93,
+      "current_price": 145.74,
+      "gain_since_entry_pct": 9.64,
+      "today_change_pct": 2.34
+    }
+  ]
+}

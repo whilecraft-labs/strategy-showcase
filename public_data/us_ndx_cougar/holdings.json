@@ -1,0 +1,95 @@
+{
+  "as_of": "2026-05-29",
+  "holdings": [
+    {
+      "ticker": "GOOG",
+      "weight": 0.1,
+      "entry_date": "2026-03-31",
+      "entry_price": 286.86,
+      "current_price": 376.43,
+      "gain_since_entry_pct": 31.22,
+      "today_change_pct": -2.51
+    },
+    {
+      "ticker": "GOOGL",
+      "weight": 0.1,
+      "entry_date": "2026-03-31",
+      "entry_price": 287.56,
+      "current_price": 380.34,
+      "gain_since_entry_pct": 32.26,
+      "today_change_pct": -2.51
+    },
+    {
+      "ticker": "CSCO",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 120.42,
+      "current_price": 120.42,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": 1.5
+    },
+    {
+      "ticker": "INTC",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 114.68,
+      "current_price": 114.68,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -5.14
+    },
+    {
+      "ticker": "MU",
+      "weight": 0.1,
+      "entry_date": "2025-12-31",
+      "entry_price": 285.29,
+      "current_price": 971.0,
+      "gain_since_entry_pct": 240.36,
+      "today_change_pct": 5.14
+    },
+    {
+      "ticker": "AEP",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 126.67,
+      "current_price": 126.67,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -0.85
+    },
+    {
+      "ticker": "LRCX",
+      "weight": 0.1,
+      "entry_date": "2025-11-28",
+      "entry_price": 155.56,
+      "current_price": 318.18,
+      "gain_since_entry_pct": 104.54,
+      "today_change_pct": 0.06
+    },
+    {
+      "ticker": "WDC",
+      "weight": 0.1,
+      "entry_date": "2026-02-27",
+      "entry_price": 279.57,
+      "current_price": 531.21,
+      "gain_since_entry_pct": 90.01,
+      "today_change_pct": 0.01
+    },
+    {
+      "ticker": "STX",
+      "weight": 0.1,
+      "entry_date": "2026-02-27",
+      "entry_price": 407.13,
+      "current_price": 879.8,
+      "gain_since_entry_pct": 116.1,
+      "today_change_pct": -0.1
+    },
+    {
+      "ticker": "CSX",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 45.26,
+      "current_price": 45.26,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -0.9
+    }
+  ]
+}

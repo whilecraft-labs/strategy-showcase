@@ -1,0 +1,59 @@
+{
+  "id": "india_n200_jackal",
+  "name": "\ud83c\uddee\ud83c\uddf3 India N200 Jackal",
+  "public_id": "india_n200_jackal",
+  "region": "India",
+  "currency": "INR",
+  "benchmark_label": "Nifty 50",
+  "benchmark_ticker": "^NSEI",
+  "rebalance_frequency": "weekly",
+  "description": "Long-only fast-momentum strategy on the Nifty 200. Weekly rebalance,\nequal-weight 10-name portfolio. 3-month (63-day) lookback with a 1-week\nskip \u2014 fast enough that a weekly rebalance harvests new information.\n",
+  "inception": "2021-04-01",
+  "last_data_date": "2026-05-29",
+  "last_updated": "2026-05-30 14:34:42 UTC",
+  "summary": {
+    "total_return_pct": 335.46,
+    "benchmark_total_return_pct": 58.39,
+    "cagr_pct": 33.72,
+    "benchmark_cagr_pct": 9.51,
+    "vs_benchmark_cagr_pct": 24.21,
+    "sharpe": 1.3,
+    "max_dd_pct": -20.8,
+    "today_return_pct": -2.06,
+    "today_benchmark_pct": -1.5,
+    "ytd_return_pct": 6.98,
+    "ytd_benchmark_pct": -9.88,
+    "returns_by_period": [
+      {
+        "period": "1W",
+        "strategy_pct": 3.43,
+        "benchmark_pct": -0.72,
+        "excess_pp": 4.15
+      },
+      {
+        "period": "1M",
+        "strategy_pct": 6.5,
+        "benchmark_pct": -1.87,
+        "excess_pp": 8.37
+      },
+      {
+        "period": "3M",
+        "strategy_pct": 3.41,
+        "benchmark_pct": -7.38,
+        "excess_pp": 10.79
+      },
+      {
+        "period": "6M",
+        "strategy_pct": 12.44,
+        "benchmark_pct": -9.03,
+        "excess_pp": 21.47
+      },
+      {
+        "period": "1Y",
+        "strategy_pct": 14.83,
+        "benchmark_pct": -5.81,
+        "excess_pp": 20.64
+      }
+    ]
+  }
+}

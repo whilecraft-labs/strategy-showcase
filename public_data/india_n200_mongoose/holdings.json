@@ -1,0 +1,95 @@
+{
+  "as_of": "2026-05-29",
+  "holdings": [
+    {
+      "ticker": "SAIL",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 204.37,
+      "current_price": 204.37,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -0.82
+    },
+    {
+      "ticker": "ADANIPOWER",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 243.37,
+      "current_price": 243.37,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -2.23
+    },
+    {
+      "ticker": "ABB",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 7253.0,
+      "current_price": 7253.0,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": 0.47
+    },
+    {
+      "ticker": "ADANIENSOL",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 1513.3,
+      "current_price": 1513.3,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -1.74
+    },
+    {
+      "ticker": "POWERINDIA",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 33550.0,
+      "current_price": 38445.0,
+      "gain_since_entry_pct": 14.59,
+      "today_change_pct": 2.38
+    },
+    {
+      "ticker": "NATIONALUM",
+      "weight": 0.1,
+      "entry_date": "2025-12-31",
+      "entry_price": 308.87,
+      "current_price": 424.45,
+      "gain_since_entry_pct": 37.42,
+      "today_change_pct": -1.99
+    },
+    {
+      "ticker": "BHARATFORG",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 1674.6,
+      "current_price": 1957.2,
+      "gain_since_entry_pct": 16.88,
+      "today_change_pct": 0.96
+    },
+    {
+      "ticker": "MCX",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 2389.4,
+      "current_price": 2954.5,
+      "gain_since_entry_pct": 23.65,
+      "today_change_pct": -6.46
+    },
+    {
+      "ticker": "GVT&D",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 4466.2,
+      "current_price": 5148.6,
+      "gain_since_entry_pct": 15.28,
+      "today_change_pct": 1.0
+    },
+    {
+      "ticker": "GROWW",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 184.89,
+      "current_price": 184.89,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -1.31
+    }
+  ]
+}

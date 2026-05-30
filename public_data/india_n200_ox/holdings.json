@@ -1,0 +1,95 @@
+{
+  "as_of": "2026-05-29",
+  "holdings": [
+    {
+      "ticker": "SAIL",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 204.37,
+      "current_price": 204.37,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -0.82
+    },
+    {
+      "ticker": "HINDALCO",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 1126.7,
+      "current_price": 1126.7,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -2.0
+    },
+    {
+      "ticker": "ADANIPOWER",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 243.37,
+      "current_price": 243.37,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -2.23
+    },
+    {
+      "ticker": "ABB",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 7230.0,
+      "current_price": 7253.0,
+      "gain_since_entry_pct": 0.32,
+      "today_change_pct": 0.47
+    },
+    {
+      "ticker": "HINDZINC",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 632.95,
+      "current_price": 632.95,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -2.45
+    },
+    {
+      "ticker": "ADANIENSOL",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 1513.3,
+      "current_price": 1513.3,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -1.74
+    },
+    {
+      "ticker": "GLENMARK",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 2406.3,
+      "current_price": 2274.9,
+      "gain_since_entry_pct": -5.46,
+      "today_change_pct": -4.61
+    },
+    {
+      "ticker": "POWERINDIA",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 33550.0,
+      "current_price": 38445.0,
+      "gain_since_entry_pct": 14.59,
+      "today_change_pct": 2.38
+    },
+    {
+      "ticker": "NATIONALUM",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 384.19,
+      "current_price": 424.45,
+      "gain_since_entry_pct": 10.48,
+      "today_change_pct": -1.99
+    },
+    {
+      "ticker": "GVT&D",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 4466.2,
+      "current_price": 5148.6,
+      "gain_since_entry_pct": 15.28,
+      "today_change_pct": 1.0
+    }
+  ]
+}

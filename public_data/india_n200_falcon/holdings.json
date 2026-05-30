@@ -1,0 +1,95 @@
+{
+  "as_of": "2026-05-29",
+  "holdings": [
+    {
+      "ticker": "SUNPHARMA",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 1808.3,
+      "current_price": 1799.2,
+      "gain_since_entry_pct": -0.5,
+      "today_change_pct": -2.45
+    },
+    {
+      "ticker": "POWERGRID",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 318.35,
+      "current_price": 290.55,
+      "gain_since_entry_pct": -8.73,
+      "today_change_pct": -3.2
+    },
+    {
+      "ticker": "COALINDIA",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 457.9,
+      "current_price": 457.9,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -1.11
+    },
+    {
+      "ticker": "BSE",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 4146.1,
+      "current_price": 4146.1,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -2.41
+    },
+    {
+      "ticker": "ONGC",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 299.55,
+      "current_price": 265.4,
+      "gain_since_entry_pct": -11.4,
+      "today_change_pct": -3.16
+    },
+    {
+      "ticker": "CUMMINSIND",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 4500.1,
+      "current_price": 5881.0,
+      "gain_since_entry_pct": 30.69,
+      "today_change_pct": -2.43
+    },
+    {
+      "ticker": "OFSS",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 9964.0,
+      "current_price": 9964.0,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -3.26
+    },
+    {
+      "ticker": "POWERINDIA",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 24235.0,
+      "current_price": 38445.0,
+      "gain_since_entry_pct": 58.63,
+      "today_change_pct": 2.38
+    },
+    {
+      "ticker": "GLENMARK",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 2406.3,
+      "current_price": 2274.9,
+      "gain_since_entry_pct": -5.46,
+      "today_change_pct": -4.61
+    },
+    {
+      "ticker": "MCX",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 2954.5,
+      "current_price": 2954.5,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -6.46
+    }
+  ]
+}

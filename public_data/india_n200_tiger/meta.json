@@ -1,0 +1,59 @@
+{
+  "id": "india_n200_tiger",
+  "name": "\ud83c\uddee\ud83c\uddf3 India N200 Tiger",
+  "public_id": "india_n200_tiger",
+  "region": "India",
+  "currency": "INR",
+  "benchmark_label": "Nifty 50",
+  "benchmark_ticker": "^NSEI",
+  "rebalance_frequency": "monthly",
+  "description": "Long-only idiosyncratic trend strategy. Monthly rebalance, equal-weight 10-name portfolio.\n",
+  "inception": "2021-03-31",
+  "last_data_date": "2026-05-29",
+  "last_updated": "2026-05-30 14:34:23 UTC",
+  "summary": {
+    "total_return_pct": 414.49,
+    "benchmark_total_return_pct": 60.29,
+    "cagr_pct": 38.16,
+    "benchmark_cagr_pct": 9.76,
+    "vs_benchmark_cagr_pct": 28.4,
+    "sharpe": 1.43,
+    "max_dd_pct": -28.35,
+    "today_return_pct": -2.04,
+    "today_benchmark_pct": -1.5,
+    "ytd_return_pct": -0.16,
+    "ytd_benchmark_pct": -9.88,
+    "returns_by_period": [
+      {
+        "period": "1W",
+        "strategy_pct": 1.07,
+        "benchmark_pct": -0.72,
+        "excess_pp": 1.79
+      },
+      {
+        "period": "1M",
+        "strategy_pct": 4.31,
+        "benchmark_pct": -1.87,
+        "excess_pp": 6.18
+      },
+      {
+        "period": "3M",
+        "strategy_pct": 0.57,
+        "benchmark_pct": -7.38,
+        "excess_pp": 7.96
+      },
+      {
+        "period": "6M",
+        "strategy_pct": 0.3,
+        "benchmark_pct": -9.03,
+        "excess_pp": 9.33
+      },
+      {
+        "period": "1Y",
+        "strategy_pct": -8.27,
+        "benchmark_pct": -5.81,
+        "excess_pp": -2.46
+      }
+    ]
+  }
+}

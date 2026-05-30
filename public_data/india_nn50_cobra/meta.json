@@ -1,0 +1,59 @@
+{
+  "id": "india_nn50_cobra",
+  "name": "\ud83c\uddee\ud83c\uddf3 India NN50 Cobra",
+  "public_id": "india_nn50_cobra",
+  "region": "India",
+  "currency": "INR",
+  "benchmark_label": "Nifty 50",
+  "benchmark_ticker": "^NSEI",
+  "rebalance_frequency": "monthly",
+  "description": "Long-only tiered-selection trend strategy. Monthly rebalance, equal-weight 10-name portfolio.\n",
+  "inception": "2021-03-31",
+  "last_data_date": "2026-05-29",
+  "last_updated": "2026-05-30 14:34:53 UTC",
+  "summary": {
+    "total_return_pct": 378.69,
+    "benchmark_total_return_pct": 60.29,
+    "cagr_pct": 36.21,
+    "benchmark_cagr_pct": 9.76,
+    "vs_benchmark_cagr_pct": 26.45,
+    "sharpe": 1.42,
+    "max_dd_pct": -22.05,
+    "today_return_pct": -0.58,
+    "today_benchmark_pct": -1.5,
+    "ytd_return_pct": 3.67,
+    "ytd_benchmark_pct": -9.88,
+    "returns_by_period": [
+      {
+        "period": "1W",
+        "strategy_pct": 4.23,
+        "benchmark_pct": -0.72,
+        "excess_pp": 4.95
+      },
+      {
+        "period": "1M",
+        "strategy_pct": 3.54,
+        "benchmark_pct": -1.87,
+        "excess_pp": 5.41
+      },
+      {
+        "period": "3M",
+        "strategy_pct": -0.13,
+        "benchmark_pct": -7.38,
+        "excess_pp": 7.26
+      },
+      {
+        "period": "6M",
+        "strategy_pct": 7.43,
+        "benchmark_pct": -9.03,
+        "excess_pp": 16.46
+      },
+      {
+        "period": "1Y",
+        "strategy_pct": 10.6,
+        "benchmark_pct": -5.81,
+        "excess_pp": 16.42
+      }
+    ]
+  }
+}

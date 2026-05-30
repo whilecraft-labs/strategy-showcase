@@ -1,0 +1,95 @@
+{
+  "as_of": "2026-05-29",
+  "holdings": [
+    {
+      "ticker": "TER",
+      "weight": 0.1,
+      "entry_date": "2025-10-31",
+      "entry_price": 181.48,
+      "current_price": 374.31,
+      "gain_since_entry_pct": 106.26,
+      "today_change_pct": -2.18
+    },
+    {
+      "ticker": "MKSI",
+      "weight": 0.1,
+      "entry_date": "2025-10-31",
+      "entry_price": 143.35,
+      "current_price": 324.26,
+      "gain_since_entry_pct": 126.2,
+      "today_change_pct": 0.26
+    },
+    {
+      "ticker": "MU",
+      "weight": 0.1,
+      "entry_date": "2025-10-31",
+      "entry_price": 223.59,
+      "current_price": 971.0,
+      "gain_since_entry_pct": 334.29,
+      "today_change_pct": 5.14
+    },
+    {
+      "ticker": "LSCC",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 147.08,
+      "current_price": 147.08,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -0.16
+    },
+    {
+      "ticker": "ON",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 120.62,
+      "current_price": 120.62,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -2.55
+    },
+    {
+      "ticker": "ONTO",
+      "weight": 0.1,
+      "entry_date": "2026-01-30",
+      "entry_price": 202.05,
+      "current_price": 258.24,
+      "gain_since_entry_pct": 27.81,
+      "today_change_pct": -0.22
+    },
+    {
+      "ticker": "STX",
+      "weight": 0.1,
+      "entry_date": "2025-06-30",
+      "entry_price": 143.25,
+      "current_price": 879.8,
+      "gain_since_entry_pct": 514.17,
+      "today_change_pct": -0.1
+    },
+    {
+      "ticker": "TXN",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 305.68,
+      "current_price": 305.68,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -3.25
+    },
+    {
+      "ticker": "COHR",
+      "weight": 0.1,
+      "entry_date": "2025-11-28",
+      "entry_price": 164.26,
+      "current_price": 361.47,
+      "gain_since_entry_pct": 120.06,
+      "today_change_pct": -4.11
+    },
+    {
+      "ticker": "MRVL",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 205.0,
+      "current_price": 205.0,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": 0.08
+    }
+  ]
+}

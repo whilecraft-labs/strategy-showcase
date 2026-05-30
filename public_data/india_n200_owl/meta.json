@@ -1,0 +1,59 @@
+{
+  "id": "india_n200_owl",
+  "name": "\ud83c\uddee\ud83c\uddf3 India N200 Owl",
+  "public_id": "india_n200_owl",
+  "region": "India",
+  "currency": "INR",
+  "benchmark_label": "Nifty 50",
+  "benchmark_ticker": "^NSEI",
+  "rebalance_frequency": "monthly",
+  "description": "Long-only multi-window trend strategy. Monthly rebalance, equal-weight 10-name portfolio.\n",
+  "inception": "2021-03-31",
+  "last_data_date": "2026-05-29",
+  "last_updated": "2026-05-30 14:34:19 UTC",
+  "summary": {
+    "total_return_pct": 351.26,
+    "benchmark_total_return_pct": 60.29,
+    "cagr_pct": 34.63,
+    "benchmark_cagr_pct": 9.76,
+    "vs_benchmark_cagr_pct": 24.87,
+    "sharpe": 1.3,
+    "max_dd_pct": -26.9,
+    "today_return_pct": -1.46,
+    "today_benchmark_pct": -1.5,
+    "ytd_return_pct": -1.88,
+    "ytd_benchmark_pct": -9.88,
+    "returns_by_period": [
+      {
+        "period": "1W",
+        "strategy_pct": 2.58,
+        "benchmark_pct": -0.72,
+        "excess_pp": 3.3
+      },
+      {
+        "period": "1M",
+        "strategy_pct": 3.72,
+        "benchmark_pct": -1.87,
+        "excess_pp": 5.6
+      },
+      {
+        "period": "3M",
+        "strategy_pct": -0.57,
+        "benchmark_pct": -7.38,
+        "excess_pp": 6.82
+      },
+      {
+        "period": "6M",
+        "strategy_pct": -0.59,
+        "benchmark_pct": -9.03,
+        "excess_pp": 8.44
+      },
+      {
+        "period": "1Y",
+        "strategy_pct": -2.42,
+        "benchmark_pct": -5.81,
+        "excess_pp": 3.4
+      }
+    ]
+  }
+}

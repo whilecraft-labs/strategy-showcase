@@ -1,0 +1,95 @@
+{
+  "as_of": "2026-05-29",
+  "holdings": [
+    {
+      "ticker": "CUMMINSIND",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 5881.0,
+      "current_price": 5881.0,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -2.43
+    },
+    {
+      "ticker": "LAURUSLABS",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 991.71,
+      "current_price": 1362.0,
+      "gain_since_entry_pct": 37.34,
+      "today_change_pct": -1.43
+    },
+    {
+      "ticker": "INDIANB",
+      "weight": 0.1,
+      "entry_date": "2025-10-31",
+      "entry_price": 858.7,
+      "current_price": 833.0,
+      "gain_since_entry_pct": -2.99,
+      "today_change_pct": -0.04
+    },
+    {
+      "ticker": "ABCAPITAL",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 345.5,
+      "current_price": 363.3,
+      "gain_since_entry_pct": 5.15,
+      "today_change_pct": -0.44
+    },
+    {
+      "ticker": "LTF",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 276.88,
+      "current_price": 286.6,
+      "gain_since_entry_pct": 3.51,
+      "today_change_pct": 1.74
+    },
+    {
+      "ticker": "NYKAA",
+      "weight": 0.1,
+      "entry_date": "2025-11-28",
+      "entry_price": 267.31,
+      "current_price": 262.3,
+      "gain_since_entry_pct": -1.87,
+      "today_change_pct": -0.32
+    },
+    {
+      "ticker": "GVT&D",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 3640.4,
+      "current_price": 5148.6,
+      "gain_since_entry_pct": 41.43,
+      "today_change_pct": 1.0
+    },
+    {
+      "ticker": "MCX",
+      "weight": 0.1,
+      "entry_date": "2026-03-30",
+      "entry_price": 2389.4,
+      "current_price": 2954.5,
+      "gain_since_entry_pct": 23.65,
+      "today_change_pct": -6.46
+    },
+    {
+      "ticker": "NATIONALUM",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 397.32,
+      "current_price": 424.45,
+      "gain_since_entry_pct": 6.83,
+      "today_change_pct": -1.99
+    },
+    {
+      "ticker": "HINDALCO",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 1126.7,
+      "current_price": 1126.7,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -2.0
+    }
+  ]
+}

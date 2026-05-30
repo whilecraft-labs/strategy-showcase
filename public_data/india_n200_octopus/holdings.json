@@ -1,0 +1,95 @@
+{
+  "as_of": "2026-05-29",
+  "holdings": [
+    {
+      "ticker": "COALINDIA",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 457.9,
+      "current_price": 457.9,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -1.11
+    },
+    {
+      "ticker": "POWERGRID",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 318.35,
+      "current_price": 290.55,
+      "gain_since_entry_pct": -8.73,
+      "today_change_pct": -3.2
+    },
+    {
+      "ticker": "ONGC",
+      "weight": 0.1,
+      "entry_date": "2026-02-27",
+      "entry_price": 279.7,
+      "current_price": 265.4,
+      "gain_since_entry_pct": -5.11,
+      "today_change_pct": -3.16
+    },
+    {
+      "ticker": "BHEL",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 416.75,
+      "current_price": 416.75,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -1.33
+    },
+    {
+      "ticker": "BSE",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 4146.1,
+      "current_price": 4146.1,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -2.41
+    },
+    {
+      "ticker": "NESTLEIND",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 1421.5,
+      "current_price": 1421.5,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -0.42
+    },
+    {
+      "ticker": "OFSS",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 9964.0,
+      "current_price": 9964.0,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -3.26
+    },
+    {
+      "ticker": "GLENMARK",
+      "weight": 0.1,
+      "entry_date": "2026-04-30",
+      "entry_price": 2406.3,
+      "current_price": 2274.9,
+      "gain_since_entry_pct": -5.46,
+      "today_change_pct": -4.61
+    },
+    {
+      "ticker": "MCX",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 2954.5,
+      "current_price": 2954.5,
+      "gain_since_entry_pct": 0.0,
+      "today_change_pct": -6.46
+    },
+    {
+      "ticker": "ADANIPOWER",
+      "weight": 0.1,
+      "entry_date": "2026-05-29",
+      "entry_price": 243.37,
+      "current_price": 243.37,
+      "gain_since_entry_pct": -0.0,
+      "today_change_pct": -2.23
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "india_n200_mongoose",
+  "name": "\ud83c\uddee\ud83c\uddf3 India N200 Mongoose",
+  "public_id": "india_n200_mongoose",
+  "region": "India",
+  "currency": "INR",
+  "benchmark_label": "Nifty 50",
+  "benchmark_ticker": "^NSEI",
+  "rebalance_frequency": "monthly",
+  "description": "Long-only trend equity strategy. Monthly rebalance, equal-weight 10-name portfolio.\n",
+  "inception": "2021-03-31",
+  "last_data_date": "2026-05-29",
+  "last_updated": "2026-05-30 14:33:54 UTC",
+  "summary": {
+    "total_return_pct": 277.37,
+    "benchmark_total_return_pct": 60.29,
+    "cagr_pct": 29.96,
+    "benchmark_cagr_pct": 9.76,
+    "vs_benchmark_cagr_pct": 20.2,
+    "sharpe": 1.13,
+    "max_dd_pct": -30.24,
+    "today_return_pct": -0.81,
+    "today_benchmark_pct": -1.5,
+    "ytd_return_pct": -1.96,
+    "ytd_benchmark_pct": -9.88,
+    "returns_by_period": [
+      {
+        "period": "1W",
+        "strategy_pct": 1.98,
+        "benchmark_pct": -0.72,
+        "excess_pp": 2.7
+      },
+      {
+        "period": "1M",
+        "strategy_pct": 7.36,
+        "benchmark_pct": -1.87,
+        "excess_pp": 9.24
+      },
+      {
+        "period": "3M",
+        "strategy_pct": 0.89,
+        "benchmark_pct": -7.38,
+        "excess_pp": 8.28
+      },
+      {
+        "period": "6M",
+        "strategy_pct": -1.53,
+        "benchmark_pct": -9.03,
+        "excess_pp": 7.5
+      },
+      {
+        "period": "1Y",
+        "strategy_pct": -5.72,
+        "benchmark_pct": -5.81,
+        "excess_pp": 0.09
+      }
+    ]
+  }
+}

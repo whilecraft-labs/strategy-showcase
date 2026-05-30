@@ -1,0 +1,59 @@
+{
+  "id": "us_growth_bison",
+  "name": "\ud83c\uddfa\ud83c\uddf8 US Growth Bison",
+  "public_id": "us_growth_bison",
+  "region": "US",
+  "currency": "USD",
+  "benchmark_label": "QQQ",
+  "benchmark_ticker": "QQQ",
+  "rebalance_frequency": "monthly",
+  "description": "Long-only growth equity strategy. Monthly rebalance, equal-weight 10-name portfolio.\n",
+  "inception": "2019-07-31",
+  "last_data_date": "2026-05-29",
+  "last_updated": "2026-05-30 14:35:12 UTC",
+  "summary": {
+    "total_return_pct": 983.31,
+    "benchmark_total_return_pct": 302.57,
+    "cagr_pct": 41.86,
+    "benchmark_cagr_pct": 22.68,
+    "vs_benchmark_cagr_pct": 19.18,
+    "sharpe": 1.17,
+    "max_dd_pct": -35.42,
+    "today_return_pct": -0.27,
+    "today_benchmark_pct": 0.37,
+    "ytd_return_pct": 81.55,
+    "ytd_benchmark_pct": 20.34,
+    "returns_by_period": [
+      {
+        "period": "1W",
+        "strategy_pct": 4.92,
+        "benchmark_pct": 3.33,
+        "excess_pp": 1.59
+      },
+      {
+        "period": "1M",
+        "strategy_pct": 20.08,
+        "benchmark_pct": 11.6,
+        "excess_pp": 8.48
+      },
+      {
+        "period": "3M",
+        "strategy_pct": 41.94,
+        "benchmark_pct": 21.73,
+        "excess_pp": 20.21
+      },
+      {
+        "period": "6M",
+        "strategy_pct": 103.37,
+        "benchmark_pct": 21.56,
+        "excess_pp": 81.81
+      },
+      {
+        "period": "1Y",
+        "strategy_pct": 168.11,
+        "benchmark_pct": 42.97,
+        "excess_pp": 125.14
+      }
+    ]
+  }
+}

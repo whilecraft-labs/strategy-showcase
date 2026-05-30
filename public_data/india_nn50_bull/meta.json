@@ -1,0 +1,59 @@
+{
+  "id": "india_nn50_bull",
+  "name": "\ud83c\uddee\ud83c\uddf3 India NN50 Bull",
+  "public_id": "india_nn50_bull",
+  "region": "India",
+  "currency": "INR",
+  "benchmark_label": "Nifty 50",
+  "benchmark_ticker": "^NSEI",
+  "rebalance_frequency": "monthly",
+  "description": "Long-only dual-confirmation trend strategy. Monthly rebalance, equal-weight 10-name portfolio.\n",
+  "inception": "2021-03-31",
+  "last_data_date": "2026-05-29",
+  "last_updated": "2026-05-30 14:35:02 UTC",
+  "summary": {
+    "total_return_pct": 380.95,
+    "benchmark_total_return_pct": 60.29,
+    "cagr_pct": 36.33,
+    "benchmark_cagr_pct": 9.76,
+    "vs_benchmark_cagr_pct": 26.58,
+    "sharpe": 1.41,
+    "max_dd_pct": -21.17,
+    "today_return_pct": -0.47,
+    "today_benchmark_pct": -1.5,
+    "ytd_return_pct": 3.57,
+    "ytd_benchmark_pct": -9.88,
+    "returns_by_period": [
+      {
+        "period": "1W",
+        "strategy_pct": 4.7,
+        "benchmark_pct": -0.72,
+        "excess_pp": 5.42
+      },
+      {
+        "period": "1M",
+        "strategy_pct": 5.53,
+        "benchmark_pct": -1.87,
+        "excess_pp": 7.4
+      },
+      {
+        "period": "3M",
+        "strategy_pct": 0.73,
+        "benchmark_pct": -7.38,
+        "excess_pp": 8.11
+      },
+      {
+        "period": "6M",
+        "strategy_pct": 7.33,
+        "benchmark_pct": -9.03,
+        "excess_pp": 16.36
+      },
+      {
+        "period": "1Y",
+        "strategy_pct": 10.46,
+        "benchmark_pct": -5.81,
+        "excess_pp": 16.27
+      }
+    ]
+  }
+}

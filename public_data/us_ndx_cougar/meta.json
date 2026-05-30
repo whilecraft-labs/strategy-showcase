@@ -1,0 +1,59 @@
+{
+  "id": "us_ndx_cougar",
+  "name": "\ud83c\uddfa\ud83c\uddf8 US NDX Cougar",
+  "public_id": "us_ndx_cougar",
+  "region": "US",
+  "currency": "USD",
+  "benchmark_label": "QQQ",
+  "benchmark_ticker": "QQQ",
+  "rebalance_frequency": "monthly",
+  "description": "Long-only idiosyncratic trend strategy on the Nasdaq 100 universe with risk-adjusted ranking. Monthly rebalance, equal-weight 10-name portfolio.\n",
+  "inception": "2020-02-28",
+  "last_data_date": "2026-05-29",
+  "last_updated": "2026-05-30 14:35:04 UTC",
+  "summary": {
+    "total_return_pct": 363.55,
+    "benchmark_total_return_pct": 272.26,
+    "cagr_pct": 27.89,
+    "benchmark_cagr_pct": 23.47,
+    "vs_benchmark_cagr_pct": 4.42,
+    "sharpe": 0.99,
+    "max_dd_pct": -39.96,
+    "today_return_pct": 0.1,
+    "today_benchmark_pct": 0.37,
+    "ytd_return_pct": 59.23,
+    "ytd_benchmark_pct": 20.34,
+    "returns_by_period": [
+      {
+        "period": "1W",
+        "strategy_pct": 6.13,
+        "benchmark_pct": 3.33,
+        "excess_pp": 2.8
+      },
+      {
+        "period": "1M",
+        "strategy_pct": 21.3,
+        "benchmark_pct": 11.6,
+        "excess_pp": 9.7
+      },
+      {
+        "period": "3M",
+        "strategy_pct": 42.97,
+        "benchmark_pct": 21.73,
+        "excess_pp": 21.24
+      },
+      {
+        "period": "6M",
+        "strategy_pct": 64.15,
+        "benchmark_pct": 21.56,
+        "excess_pp": 42.58
+      },
+      {
+        "period": "1Y",
+        "strategy_pct": 75.35,
+        "benchmark_pct": 42.97,
+        "excess_pp": 32.38
+      }
+    ]
+  }
+}
